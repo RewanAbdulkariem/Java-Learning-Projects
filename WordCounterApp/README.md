@@ -23,3 +23,4 @@ A simple and user-friendly **Java Desktop Application** that analyzes text and p
 ## Installation
 
 - Download and run the **`Word Counter App.exe`** if you're using **Windows**.
+note: its size 1.8MB
