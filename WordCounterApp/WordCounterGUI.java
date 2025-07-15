@@ -1,5 +1,3 @@
-package Java;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -19,7 +17,9 @@ public class WordCounterGUI {
         paragraphContainer.setBounds(10, 60, 450, 200);
         paragraphContainer.setLineWrap(true);
         paragraphContainer.setWrapStyleWord(true);
-        frame.add(paragraphContainer);
+        JScrollPane scrollPane = new JScrollPane(paragraphContainer);
+        scrollPane.setBounds(10, 60, 450, 200);
+        frame.add(scrollPane);
 
         JButton counterButton = new JButton("Count");
         counterButton.setBounds(200,270,100,50);
