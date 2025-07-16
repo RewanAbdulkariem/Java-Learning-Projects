@@ -22,8 +22,8 @@ A simple and user-friendly **Java Desktop Application** that analyzes text and p
    - Total number of paragraphs.
 ## Installation
 
-- Download and run the **`Word Counter App.exe`** if you're using **Windows**.
-note: its size 1.8MB
+- Download and run the **`installer.exe`** if you're using **Windows**.
+**note: its size 1.8MB**
 
 *OR*
 
