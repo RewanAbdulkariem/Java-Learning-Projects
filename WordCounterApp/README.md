@@ -10,7 +10,7 @@ A simple and user-friendly **Java Desktop Application** that analyzes text and p
 - Pure Java (for text processing logic)
 
 ## Screenshot
-![Word Counter Screenshot](App.png)
+![Word Counter Screenshot](/imgs/App.png)
 
 ## How to Use
 
@@ -30,5 +30,6 @@ A simple and user-friendly **Java Desktop Application** that analyzes text and p
 - Compile and run using Java:
 
 ```bash
-javac TextAnalyzer.java WordCounterGUI.java
-java WordCounterGUI
+javac .\Java\TextAnalyzer.java .\Java\WordCounterGUI.java
+java Java.WordCounterGUI
+```
