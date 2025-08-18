@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WordCounterApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WordCounterApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
